@@ -11,7 +11,7 @@ Run `npm install` to build the project.
 ## Test
 
 Run `npm test` or `mocha test`.
-All 3 tests should pass with flyingn colours.
+All 3 tests should pass with flying colours.
 
 ## Run
 
